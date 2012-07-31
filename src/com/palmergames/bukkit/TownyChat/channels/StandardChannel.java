@@ -126,6 +126,8 @@ public class StandardChannel extends Channel {
 			break;
 			
 		case PRIVATE:
+		    break;
+		    
 		case GLOBAL:
 			DynmapAPI dynMap = plugin.getDynmap();
 			
